@@ -1,0 +1,26 @@
+{
+  "mainMenu": {
+    "state": "В главном меню",
+    "largeImageText": "Главное меню"
+  },
+  "loadingGame": {
+    "state": "Загрузка...",
+    "largeImageText": "GothicCraft",
+    "details": "GothicCraft"
+  },
+  "inGame": {
+    "multiPlayer": {
+      "largeImageText": {
+        "unknown": "GothicCraft.",
+        "ip": "GothicCraft."
+      },
+      "state": "Играет на сервере",
+      "details": "Ник: %s"
+    },
+    "singlePlayer": {
+      "state": "GothicCraft.",
+      "largeImageText": "GothicCraft.",
+      "details": "Ник: %s"
+    }
+  }
+}
